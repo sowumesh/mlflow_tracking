@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/My_Docs/ML/MLFLOW/mlruns/0/630773de6f1a459daa2d875da04798bb/artifacts
+end_time: 1762065393716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 630773de6f1a459daa2d875da04798bb
+run_name: shivering-bear-369
+run_uuid: 630773de6f1a459daa2d875da04798bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762065377285
+status: 3
+tags: []
+user_id: mail2
